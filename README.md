@@ -103,7 +103,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 
-This implementation is inspired by kernel-based methods and contrastive learning techniques. Special thanks to the PyTorch community for providing excellent tools and resources.
+
+This implementation is inspired by my technical paper the method of optimal non-linear extrapolation of vector random functions on the basis of canonical expansion and also
+kernel-based methods and contrastive learning techniques. Special thanks to the PyTorch community for providing excellent tools and resources.
 
 ## Contact
 
