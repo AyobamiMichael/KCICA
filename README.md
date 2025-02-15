@@ -111,7 +111,7 @@ kernel-based methods and contrastive learning techniques. Special thanks to the 
 
 For questions or feedback, please open an issue on GitHub or contact the maintainer:
 
-**Your Name** Ayobami Opefeyijimi
+Ayobami Opefeyijimi
 
 Email: [ayobamiwealth@gmail.com](mailto:ayobamiwealth@gmail.com)
 
