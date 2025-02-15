@@ -36,7 +36,7 @@ To use this code, you need to have Python and PyTorch installed. Follow these st
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/kcica.git
+    git clone https://github.com/AyobamiMichael/KCICA.git
     cd kcica
     ```
 
@@ -109,9 +109,9 @@ This implementation is inspired by kernel-based methods and contrastive learning
 
 For questions or feedback, please open an issue on GitHub or contact the maintainer:
 
-**Your Name**
+**Your Name** Ayobami Opefeyijimi
 
 Email: [ayobamiwealth@gmail.com](mailto:ayobamiwealth@gmail.com)
 
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+GitHub: [https://github.com/AyobamiMichael/KCICA.git](https://github.com/AyobamiMichael)
 
