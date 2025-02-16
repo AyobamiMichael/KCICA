@@ -86,8 +86,6 @@ The KCICA model can be applied to various real-world problems, including:
 - **Anomaly Detection**: Identifying unusual patterns in data.
 - **Signal Denoising**: Removing noise from signals while preserving the underlying structure.
 
-For more details, see the Real-World Applications section in the repository documentation.
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
